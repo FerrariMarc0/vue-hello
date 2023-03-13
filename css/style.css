@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.my_text{
+    color: #fff;
+    margin-bottom: 1.25rem;
+}
+.div_position{
+    text-align: center;
+    padding-top: 6.25rem;
+}
+.my_img{
+    border-radius: 1.25rem;
+    width: 21.875rem;
+    height: 37.5rem;
+    margin-top: 1.875rem;
+}
+.b_style{
+    color: #fff;
+    padding: .3125rem .625rem;
+    border-radius: .3125rem;
+    background-color: transparent;
+}
