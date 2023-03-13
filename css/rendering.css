@@ -1,0 +1,23 @@
+.my_text{
+    color: #fff;
+    margin-bottom: 1.25rem;
+}
+.div_position{
+    text-align: center;
+    padding-top: 6.25rem;
+}
+.my_img{
+    border-radius: 1.25rem;
+    width: 21.875rem;
+    height: 37.5rem;
+    margin-top: 1.875rem;
+}
+.b_style{
+    color: #fff;
+    padding: .3125rem .625rem;
+    border-top-right-radius: .3125rem;
+    border-bottom-left-radius: .3125rem;
+    background-color: transparent;
+    border-left: none;
+    border-right: none;
+}
