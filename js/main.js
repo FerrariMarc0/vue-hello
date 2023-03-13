@@ -1,8 +1,8 @@
-/* 'use strict'; */
+'use strict';
 
-const { createApp } = Vue
+const { createApp } = Vue /* funzione estratta da variabile globale Vue */
 
-  createApp({
+  createApp({  /* invocazione funzione */
     data() {
       return {
         title: 'My first Vue',
@@ -14,7 +14,7 @@ const { createApp } = Vue
     methods:{
       showImg(){
         this.imgs= ["img/01.jpg"];
-        this.message= '...Prova a prendermi';
+        this.message= '...Prova a prendermi!!';
       }
     }
-  }).mount('#app') 
+  }).mount('#app') /* metodo invocato per collegare tag html */

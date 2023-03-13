@@ -24,6 +24,10 @@ body{
 .b_style{
     color: #fff;
     padding: .3125rem .625rem;
-    border-radius: .3125rem;
+    border-top-right-radius: .3125rem;
+    border-bottom-left-radius: .3125rem;
     background-color: transparent;
+    border-left: none;
+    border-right: none;
+
 }
